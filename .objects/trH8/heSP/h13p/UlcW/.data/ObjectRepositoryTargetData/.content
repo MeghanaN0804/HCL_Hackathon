@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="t8R3T1g580iicH390TGgnA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="rpachallenge.com" CVScreenId="7f05a996-74eb-4077-a336-944c1e9a4394" CvTextArea="47, 212, 346, 52" CvTextArgument="RPA Challenge" CvType="Text" DesignTimeRectangle="45, 211, 345, 54" DesignTimeScaleFactor="1.5" ElementType="Text" Guid="127cc34e-ef16-4d9d-ac08-320e5e6c37fe" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Rpa Challenge' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="08e72ae75b4635e9c7b4f8c986f2ccdd.png" xmlns="">0H7cfDpuYN0Sxr-rKKL8uxQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
